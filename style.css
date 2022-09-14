@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+.navbar {
+  background-image: url(./img/cq5dam.resized.img.1680.large.time1630747762673.jpg);
+  /* background-position: center; */
+  height: 750px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar .container {
+  margin-bottom: 42rem;
+}
+.paragraf {
+  position: relative;
+}
+.pag {
+  position: absolute;
+  bottom: 27rem;
+  width: 600px;
+}
+
+.bolum2 .container .row .card {
+  height: 550px;
+  width: 300px;
+  border: none;
+  border-radius: 0;
+}
+.bolum2 .container .row .card img {
+  height: 550px;
+  width: 300px;
+  border: none;
+  border-radius: 0;
+}
+.bolum2 .container .row .card:hover {
+  transform: scale(98%);
+}
+
+.bolum4 .nav-link:hover {
+  border-bottom: 1px solid black;
+  border-radius: 0;
+}
+
+.navbar-nav .nav-link:hover {
+  border-bottom: 3px solid rgb(67, 85, 184);
+  padding-bottom: 1.5rem;
+  border-radius: 0;
+}
